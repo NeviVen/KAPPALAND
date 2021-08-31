@@ -1,0 +1,5 @@
+npm install
+node completeApp.js - run
+
+mongodb+srv://admin:A12345@cluster0.e6gnp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
